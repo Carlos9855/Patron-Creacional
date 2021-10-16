@@ -2,29 +2,31 @@
 
 namespace FactoryMethod
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
             InstrumentFactory factory = new ConcreteInstrumentFactory();
-
+            string play;
+            string sell;
             IInstrument guitar = factory.GetInstrument("Guitar");
-            string a= guitar.Play(96);
-            string b = guitar.Sell(120);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            play= guitar.Play(96);
+            sell = guitar.Sell(120);
+            Console.WriteLine(play);
+            Console.WriteLine(sell);
 
             IInstrument piano = factory.GetInstrument("Piano");
-            a=piano.Play(80);
-            b=piano.Sell(1000);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            play = piano.Play(80);
+            sell = piano.Sell(1000);
+            Console.WriteLine(play);
+            Console.WriteLine(sell);
 
             IInstrument bass = factory.GetInstrument("Bass");
-            a=bass.Play(75);
-            b=bass.Sell(150);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            play = bass.Play(75);
+            sell = bass.Sell(150);
+            Console.WriteLine(play);
+            Console.WriteLine(sell);
+
 
         }
     }

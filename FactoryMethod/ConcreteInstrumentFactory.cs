@@ -14,7 +14,7 @@ namespace FactoryMethod
                 case "Bass":
                     return new Bass();
                 default:
-                    throw new Exception(string.Format("Instrument '{0}' does not exist", Instrument));
+                    throw new Exception(Instrument);
             }
         }
 

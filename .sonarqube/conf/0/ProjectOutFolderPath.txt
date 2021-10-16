@@ -1,0 +1,1 @@
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\.sonarqube\out\0
