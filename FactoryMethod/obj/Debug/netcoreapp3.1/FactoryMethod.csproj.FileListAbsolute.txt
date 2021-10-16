@@ -1,0 +1,37 @@
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csprojAssemblyReference.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csprojAssemblyReference.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\Patron_Creacional\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
